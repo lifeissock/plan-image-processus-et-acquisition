@@ -1,0 +1,10 @@
+C:\Users\Chloé\source\repos\Thread0\Controle1\obj\Debug\Controle1.csproj.AssemblyReference.cache
+C:\Users\Chloé\source\repos\Thread0\Controle1\obj\Debug\Controle1.Form1.resources
+C:\Users\Chloé\source\repos\Thread0\Controle1\obj\Debug\Controle1.Properties.Resources.resources
+C:\Users\Chloé\source\repos\Thread0\Controle1\obj\Debug\Controle1.csproj.GenerateResource.cache
+C:\Users\Chloé\source\repos\Thread0\Controle1\obj\Debug\Controle1.csproj.CoreCompileInputs.cache
+C:\Users\Chloé\source\repos\Thread0\Controle1\bin\Debug\Controle1.exe.config
+C:\Users\Chloé\source\repos\Thread0\Controle1\bin\Debug\Controle1.exe
+C:\Users\Chloé\source\repos\Thread0\Controle1\bin\Debug\Controle1.pdb
+C:\Users\Chloé\source\repos\Thread0\Controle1\obj\Debug\Controle1.exe
+C:\Users\Chloé\source\repos\Thread0\Controle1\obj\Debug\Controle1.pdb
